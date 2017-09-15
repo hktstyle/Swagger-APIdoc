@@ -1,6 +1,4 @@
-/**
- * Copyright © 2017 北京易酒批电子商务有限公司. All rights reserved.
- */
+
 package com.hkystyle.swagger.apidoc.common.config;
 
 /**
